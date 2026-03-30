@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "title": "Protestant vs. Orthodox: Scripture and Tradition",
+    "author": "Gavin Ortlund",
+    "url": "https://www.youtube.com/watch?v=RIeYlktTaU4",
+    "date": "2024-03-19"
+  },
+  "questions": [
+    {
+      "question": "According to Ortlund, what does Sola Scriptura mean?",
+      "options": ["Everything you believe must be explicit in scripture", "The Bible is the only authority and tradition has no value", "Scripture is the only infallible rule for the church in the post-apostolic era", "Scripture and ecumenical councils share equal infallible authority"],
+      "answer": "Scripture is the only infallible rule for the church in the post-apostolic era"
+    },
+    {
+      "question": "How does Fr. De Young define Holy Tradition in the Orthodox Church?",
+      "options": ["Propositional content handed down orally through bishops in secret", "The life of the Holy Spirit in the church", "A set of written documents equal in authority to scripture", "The accumulated decisions of all ecumenical councils"],
+      "answer": "The life of the Holy Spirit in the church"
+    },
+    {
+      "question": "What distinction does De Young draw between the Orthodox and Roman Catholic understandings of tradition?",
+      "options": ["The Orthodox reject tradition entirely while Roman Catholics accept it", "Roman Catholics see tradition as propositional content not in scripture, while the Orthodox see it as the ongoing life of the Holy Spirit in the church", "The Orthodox elevate tradition above scripture while Roman Catholics do not", "There is no meaningful distinction between the two"],
+      "answer": "Roman Catholics see tradition as propositional content not in scripture, while the Orthodox see it as the ongoing life of the Holy Spirit in the church"
+    },
+    {
+      "question": "Which Reformed theologian does Ortlund cite as clarifying that Sola Scriptura concerns the supreme standard of adjudication, not whether the church has any judgment in controversies?",
+      "options": ["John Calvin", "Martin Chemnitz", "Francis Turretin", "Anthony Hoekema"],
+      "answer": "Francis Turretin"
+    },
+    {
+      "question": "What Greek term does De Young use for the quality of scripture being 'God-breathed' (2 Timothy 3:16)?",
+      "options": ["Homoousios", "Theopneustos", "Theotokos", "Christotokos"],
+      "answer": "Theopneustos"
+    },
+    {
+      "question": "What parallel does Ortlund draw to explain why Sola Scriptura is practically necessary?",
+      "options": ["The early church's debate over the date of Easter", "The Pharisees' appeal to oral tradition and Jesus's rebuke in Mark 7", "The Council of Nicaea's rejection of Arianism", "Paul's letters to the Thessalonians about holding fast to traditions"],
+      "answer": "The Pharisees' appeal to oral tradition and Jesus's rebuke in Mark 7"
+    },
+    {
+      "question": "According to Ortlund, what is the key issue with icons — the specific target of his critique?",
+      "options": ["The presence of any religious art in church buildings", "The use of images on catacomb tombs and engravings", "The veneration of images — praying through the icon as a window to heaven", "The artistic quality of religious paintings"],
+      "answer": "The veneration of images — praying through the icon as a window to heaven"
+    },
+    {
+      "question": "When De Young says Christ's promise that 'the Holy Spirit will lead you into all truth' uses a plural 'you,' what point is he making?",
+      "options": ["Every individual Christian is guaranteed perfect interpretation", "The promise is collective, made to the church as a whole, not to any individual", "The Bishop of Rome has special interpretive authority", "Only theologians with doctoral degrees can interpret scripture correctly"],
+      "answer": "The promise is collective, made to the church as a whole, not to any individual"
+    },
+    {
+      "question": "How many uses of the word 'tradition' in the church fathers did Martin Chemnitz identify?",
+      "options": ["Three", "Five", "Eight", "Twelve"],
+      "answer": "Eight"
+    },
+    {
+      "question": "Which second-century controversy does Ortlund cite as an example of both sides appealing to apostolic tradition?",
+      "options": ["The Arian controversy", "The Easter date controversy", "The Chalcedonian definition", "The iconoclast controversy"],
+      "answer": "The Easter date controversy"
+    },
+    {
+      "question": "What eccentric view does Ortlund say Irenaeus supported by appealing to apostolic tradition?",
+      "options": ["That the Trinity is modalistic", "That Jesus died as a middle-aged man", "That icons should be venerated", "That women could be ordained"],
+      "answer": "That Jesus died as a middle-aged man"
+    },
+    {
+      "question": "According to De Young, why did Sola Scriptura arise specifically in the 16th century?",
+      "options": ["Because the Holy Spirit uniquely guided the Reformers at that time", "Because the Reformers faced falsified documents and misattributed patristic works supporting papal claims", "Because the church fathers had explicitly taught Sola Scriptura", "Because the printing press made Bibles widely available for the first time"],
+      "answer": "Because the Reformers faced falsified documents and misattributed patristic works supporting papal claims"
+    },
+    {
+      "question": "What archaeological evidence does De Young cite to challenge Calvin's claim about the absence of icons before the fifth century?",
+      "options": ["Byzantine mosaics from the 3rd century", "First-century synagogues in Galilee containing iconography", "Roman catacomb paintings from the 2nd century", "Egyptian papyri depicting Christ"],
+      "answer": "First-century synagogues in Galilee containing iconography"
+    },
+    {
+      "question": "Who is the church father De Young credits with first using the argument that 'what is given to the image passes to the prototype'?",
+      "options": ["Athanasius of Alexandria", "Eusebius of Caesarea", "St. Basil the Great", "Gregory of Nyssa"],
+      "answer": "St. Basil the Great"
+    },
+    {
+      "question": "In what context did St. Basil originally use the 'image passes to the prototype' argument?",
+      "options": ["Defending the veneration of icons against iconoclasts", "Explaining why Christians are monotheists despite worshipping the Father, Son, and Holy Spirit", "Arguing for the authority of ecumenical councils", "Defending the use of images in synagogues"],
+      "answer": "Explaining why Christians are monotheists despite worshipping the Father, Son, and Holy Spirit"
+    },
+    {
+      "question": "Why does De Young suggest Eusebius of Caesarea's opposition to iconography is theologically motivated rather than purely historical?",
+      "options": ["Eusebius was a Montanist who rejected all material objects in worship", "Eusebius was semi-Arian or Arian, so he would reject the trinitarian principle of image-and-prototype", "Eusebius had never visited any churches and was unaware of common practices", "Eusebius was allied with Empress Irene's political faction"],
+      "answer": "Eusebius was semi-Arian or Arian, so he would reject the trinitarian principle of image-and-prototype"
+    },
+    {
+      "question": "What evidence from the Jerusalem Talmud does De Young cite regarding early icon veneration?",
+      "options": ["A rabbi praising Christians for their beautiful art", "Rabbis condemning people lining up to kiss images as idolatry — a practice pagans did not follow", "A passage comparing Christian icons to the Temple furnishings", "A rabbinical ruling permitting the veneration of images"],
+      "answer": "Rabbis condemning people lining up to kiss images as idolatry — a practice pagans did not follow"
+    },
+    {
+      "question": "What does Ortlund say about the Assumption of Mary as a belief?",
+      "options": ["It is well attested in independent early sources within decades of the event", "It first appears in a gnostic text that is demeaning to Mary, and early lists of bodily assumptions include only Enoch and Elijah", "It is explicitly taught in the New Testament but was later suppressed", "It was unanimously affirmed by the church fathers before the Council of Chalcedon"],
+      "answer": "It first appears in a gnostic text that is demeaning to Mary, and early lists of bodily assumptions include only Enoch and Elijah"
+    },
+    {
+      "question": "How does De Young say the Orthodox determine whether a council's decisions are authoritative?",
+      "options": ["By counting the number of bishops who attended", "By whether the emperor endorsed the council", "By how the church received and affirmed the council's decisions over time", "By whether the council's decisions were immediately accepted by all Christians"],
+      "answer": "By how the church received and affirmed the council's decisions over time"
+    },
+    {
+      "question": "What Western council does Ortlund cite as opposing Nicaea II's theology of icons?",
+      "options": ["The Council of Trent", "The Council of Frankfurt (794 AD)", "The First Council of Constantinople", "The Council of Chalcedon"],
+      "answer": "The Council of Frankfurt (794 AD)"
+    },
+    {
+      "question": "According to De Young, what problematic theological conclusion did the Council of Frankfurt reach alongside its rejection of Nicaea II?",
+      "options": ["It endorsed Arianism", "It justified Eucharistic adoration by arguing the Eucharist is homoousios with Christ", "It rejected the Nicene Creed", "It denied the deity of Christ"],
+      "answer": "It justified Eucharistic adoration by arguing the Eucharist is homoousios with Christ"
+    },
+    {
+      "question": "What does Ortlund mean by the term 'accretion' in the context of church history?",
+      "options": ["A sudden, dramatic heretical break from apostolic teaching", "The slow, gradual introduction of innovations into church practice over time", "The official dogmatic definition of a previously informal belief", "The process by which scripture was canonized"],
+      "answer": "The slow, gradual introduction of innovations into church practice over time"
+    },
+    {
+      "question": "Ortlund acknowledges that the proliferation of division is a genuine weakness of Protestantism. How does he argue it differs from a falsification of the Protestant system?",
+      "options": ["He denies that significant division exists among Protestants", "He argues that Protestants do not claim infallibility for their interpretations, so differing interpretations do not disprove the system", "He claims that all Protestant divisions are minor and unimportant", "He says division only exists because of Roman Catholic interference"],
+      "answer": "He argues that Protestants do not claim infallibility for their interpretations, so differing interpretations do not disprove the system"
+    },
+    {
+      "question": "De Young compares Ortlund's historical argument against icon veneration to what parallel case?",
+      "options": ["A Roman Catholic argument against Protestantism", "A Unitarian's historical argument against the doctrine of the Trinity", "A Muslim's argument against the divinity of Christ", "A Gnostic's argument against the Old Testament"],
+      "answer": "A Unitarian's historical argument against the doctrine of the Trinity"
+    },
+    {
+      "question": "What role does Empress Irene play in Ortlund's account of Nicaea II?",
+      "options": ["She was a theological architect of the council's doctrinal definitions", "Her political influence was a major factor in convening the council and its outcome", "She opposed the council and tried to prevent it from meeting", "She wrote the anathemas that the council issued"],
+      "answer": "Her political influence was a major factor in convening the council and its outcome"
+    },
+    {
+      "question": "What does De Young say about the Orthodox view of Mary's bodily assumption?",
+      "options": ["It has been formally dogmatized as essential Orthodox doctrine", "It is believed to have happened but has not been dogmatized the way the Roman Catholics have done", "It is considered a heretical belief rejected by the Orthodox", "It is held as an open question with no consensus"],
+      "answer": "It is believed to have happened but has not been dogmatized the way the Roman Catholics have done"
+    },
+    {
+      "question": "What biblical passage does Ortlund cite to argue that scripture has ontological uniqueness as the very speech of God?",
+      "options": ["Matthew 23 (the Pharisees sit on the seat of Moses)", "2 Timothy 3:16 (all scripture is God-breathed)", "John 3:16 (God so loved the world)", "Acts 15 (the Jerusalem Council)"],
+      "answer": "2 Timothy 3:16 (all scripture is God-breathed)"
+    },
+    {
+      "question": "Which Dutch Reformed theological school does De Young reference as moving toward Orthodox Greek theological vocabulary?",
+      "options": ["Princeton Seminary", "Westminster Seminary", "The Amsterdam school associated with Anthony Hoekema", "Trinity Evangelical Divinity School"],
+      "answer": "The Amsterdam school associated with Anthony Hoekema"
+    }
+  ]
+}

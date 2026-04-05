@@ -99,7 +99,7 @@
 - **Every church** should **clarify boundaries** and be **exclusive** in **that** sense.
 - What is **rejected** is **reductionistic exclusivism** that **ties salvation** to **membership in one denomination** alone.
 
-## Core Ideas
+## Core Ideas [!]
 
 - Orthodox exclusivity under critique is **sectarian** and **soteriological** (outside the visible Orthodox church ⇒ not truly saved), not mere **institutional** boundary-drawing.
 - Historical **fourth-century shifts** (space, law, liturgy, monasticism) complicate **“unchanging continuity”** narratives.

@@ -28,6 +28,8 @@ Mass is the amount of matter in an object. Your mass would be the same whether y
 
 Weight is the measure of how strongly gravity pulls on that mass. On Earth, you weigh more than you would on the Moon because Earth has more mass and stronger gravity. An astronaut who weighs 90 pounds on Earth would weigh only about 15 pounds on the Moon, but the astronaut's body has not lost most of its matter. The astronaut's mass is the same; the weight is different because the pull of gravity is different.
 
+![Gravity_02](002_Gravity_02.png)
+
 ## Falling and Acceleration
 
 When gravity pulls an object downward, the object does not merely move at one steady speed. If air resistance is small, the object accelerates, which means it moves faster and faster as it falls.

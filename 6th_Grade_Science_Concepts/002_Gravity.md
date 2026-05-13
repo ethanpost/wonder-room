@@ -28,8 +28,6 @@ Mass is the amount of matter in an object. Your mass would be the same whether y
 
 Weight is the measure of how strongly gravity pulls on that mass. On Earth, you weigh more than you would on the Moon because Earth has more mass and stronger gravity. An astronaut who weighs 90 pounds on Earth would weigh only about 15 pounds on the Moon, but the astronaut's body has not lost most of its matter. The astronaut's mass is the same; the weight is different because the pull of gravity is different.
 
-![Gravity_02](002_Gravity_02.png)
-
 ## Falling and Acceleration
 
 When gravity pulls an object downward, the object does not merely move at one steady speed. If air resistance is small, the object accelerates, which means it moves faster and faster as it falls.
@@ -45,6 +43,8 @@ If you drop a stone and a feather at the same time, the stone reaches the ground
 Air resistance is the force of air pushing against a moving object. A feather has a large surface area compared with its weight, so air resistance slows it greatly. A stone cuts through the air more easily, so it falls quickly.
 
 Astronauts on the Moon once dropped a hammer and a feather at the same time. Because the Moon has almost no atmosphere, there was almost no air resistance. The hammer and feather hit the ground together.
+
+![Gravity_02](002_Gravity_02.png)
 
 ## Gravity Reaches Far Into Space
 
@@ -64,6 +64,8 @@ Newton's law of universal gravitation says that every object with mass attracts 
 2. How far apart the objects are.
 
 More mass means stronger gravity. Greater distance means weaker gravity. This is why Earth's pull on you is strong, while the pull from a distant planet is much too weak for you to feel.
+
+![Gravity_03](002_Gravity_03.png)
 
 ## Gravity and Everyday Life
 

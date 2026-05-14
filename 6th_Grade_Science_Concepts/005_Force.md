@@ -40,6 +40,8 @@ Electric forces may act at a distance too. A rubbed balloon can attract small bi
 
 Non-contact forces may seem mysterious at first because nothing appears to be pushing or pulling. Scientists describe these forces using fields, such as gravitational fields, magnetic fields, and electric fields. A field is a region where a force can act.
 
+![Force_03](005_Force_03.png)
+
 ## Measuring Force
 
 In science, force is measured in newtons. The unit is named after Sir Isaac Newton, one of the most important scientists in history.
@@ -59,6 +61,8 @@ The size of a force tells how strong it is. A hard kick gives a soccer ball a la
 Scientists often draw forces with arrows. The arrow points in the direction of the force. A longer arrow can show a larger force, and a shorter arrow can show a smaller force.
 
 This is useful because many objects have more than one force acting on them at the same time. A book resting on a table has gravity pulling it downward and the table pushing it upward. A flying airplane has gravity pulling down, lift pushing up, thrust pushing forward, and air resistance pulling backward.
+
+![Force_02](005_Force_02.png)
 
 ## Balanced Forces
 
@@ -149,6 +153,8 @@ Newton's second law connects force, mass, and acceleration. More force causes mo
 Newton's third law says that forces come in pairs. When one object pushes on another, the second object pushes back on the first. When you jump, your legs push down on the ground, and the ground pushes up on you.
 
 You will study these laws more deeply later, but the beginning idea is simple: forces explain changes in motion.
+
+![Force_01](005_Force_01.png)
 
 ## Why Force Matters
 

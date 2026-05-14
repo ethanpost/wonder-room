@@ -42,6 +42,8 @@ The same idea appears in sports. A tennis ball is easy to throw and easy to stop
 
 More mass means more resistance to changes in motion.
 
+![Inertia_01](Inertia_01.png)
+
 ## Inertia at Rest
 
 Objects at rest tend to stay at rest.

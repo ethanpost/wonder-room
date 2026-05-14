@@ -17,6 +17,8 @@ Weight always depends on two things:
 
 If either one changes, the weight changes.
 
+![Weight_01](003_Weight_01.png)
+
 ## Mass and Weight Are Not the Same
 
 Mass is the amount of matter in an object. It tells how much "stuff" the object contains. A bowling ball has more mass than a tennis ball. A full backpack has more mass than an empty backpack.
@@ -34,6 +36,8 @@ Earth is enormous. Because it has so much mass, it has strong gravity near its s
 You feel this pull all day. It is why your feet press against the floor, why your chair supports you, and why your muscles must work when you climb stairs. If Earth did not pull on you, you would not press down on the ground. You would float away unless another force held you in place.
 
 The ground also pushes upward on you. When you stand still, Earth's gravity pulls you down, and the floor pushes up with an equal force. That is why you do not fall through the floor. A scale measures how hard you press down on it, which tells us how strongly gravity is pulling on you.
+
+![Weight_02](003_Weight_02.png)
 
 ## Weight as a Force
 
@@ -68,6 +72,8 @@ Astronauts in orbit are still being pulled by Earth's gravity. In fact, Earth's 
 Imagine an elevator cable suddenly broke. During the fall, a person inside would feel weightless for a short time because the person, the elevator, and the scale inside it would all be falling together. The scale would not have a firm surface pushing up against the person, so it would not register the usual weight.
 
 Orbit is similar, except the spacecraft is moving forward so fast that as it falls toward Earth, Earth's surface curves away beneath it. The astronauts are not beyond gravity. They are in continuous free fall.
+
+![Weight_03](003_Weight_03.png)
 
 ## Apparent Weight
 

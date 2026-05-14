@@ -1,4 +1,4 @@
-﻿# Mass
+# Mass
 
 Imagine two boxes sitting on a table. One is empty. The other is filled with books, a baseball glove, a water bottle, and a pair of muddy sneakers. From the outside, the boxes may look almost the same. But if you try to push them, lift them, or stop them from sliding, you will quickly discover that they are not the same at all.
 
@@ -17,6 +17,9 @@ Matter is anything that has mass and takes up space. Your desk, your pencil, the
 An object with more matter has more mass. A bowling ball has more mass than a tennis ball. A full suitcase has more mass than an empty one. A large dog has more mass than a small puppy.
 
 Mass tells us how much "stuff" is in something. That simple phrase is useful, but a good science student should go one step deeper: mass also tells us how strongly an object resists changes in motion.
+
+![Mass_01](004_Mass_01.png)
+
 
 ## Mass Is Not the Same as Size
 
@@ -48,13 +51,15 @@ A gram is a small unit of mass. A paper clip has a mass of about 1 gram. A kilog
 
 Here are some useful examples:
 
-| Object | Approximate Mass |
-| --- | --- |
-| Paper clip | 1 gram |
-| Pencil | 5 to 10 grams |
-| Apple | 100 to 200 grams |
-| Textbook | 1 to 2 kilograms |
+
+| Object              | Approximate Mass         |
+| ------------------- | ------------------------ |
+| Paper clip          | 1 gram                   |
+| Pencil              | 5 to 10 grams            |
+| Apple               | 100 to 200 grams         |
+| Textbook            | 1 to 2 kilograms         |
 | 11-year-old student | about 30 to 45 kilograms |
+
 
 In science class, you may measure mass with a balance. A balance compares the mass of one object with the mass of known objects. If both sides balance, the masses are equal.
 
@@ -156,3 +161,4 @@ The key lesson is this: mass is the amount of matter in an object, and it stays 
 14. What does conservation of mass mean?
 15. Why might matter seem to disappear during a change even though mass is conserved?
 16. Give three examples of mass affecting everyday life.
+

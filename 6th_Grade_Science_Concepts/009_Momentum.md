@@ -45,7 +45,7 @@ This is why large moving objects deserve respect. A slow-moving ship can be very
 
 Mass does not have to be enormous to matter. A full backpack swinging from your shoulder has more momentum than an empty backpack swinging at the same speed.
 
-![Momentum_01](Momentum_01.png)
+![Inertia vs Momentum](009_Momentum_01.png)
 
 ## Velocity and Momentum
 

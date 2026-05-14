@@ -2,7 +2,7 @@
 
 Imagine you are standing at the top of a diving board, looking down at the bright blue water below. You know exactly what will happen if you jump: you will fall toward the pool. You do not expect to drift upward into the sky or float sideways into the lifeguard chair. Something invisible, steady, and powerful is pulling you downward. That something is gravity.
 
-![Gravity_01](002_Gravity_01.png)
+![Gravity pulls you downward](002_Gravity_01.png)
 
 Gravity is one of the most important forces in the universe. It keeps your feet on the ground, pulls raindrops from clouds, guides the Moon around Earth, and holds the planets in their paths around the Sun. Without gravity, life as we know it could not exist.
 
@@ -44,7 +44,7 @@ Air resistance is the force of air pushing against a moving object. A feather ha
 
 Astronauts on the Moon once dropped a hammer and a feather at the same time. Because the Moon has almost no atmosphere, there was almost no air resistance. The hammer and feather hit the ground together.
 
-![Gravity_02](002_Gravity_02.png)
+![The stone and the feather](002_Gravity_02.png)
 
 ## Gravity Reaches Far Into Space
 
@@ -65,7 +65,7 @@ Newton's law of universal gravitation says that every object with mass attracts 
 
 More mass means stronger gravity. Greater distance means weaker gravity. This is why Earth's pull on you is strong, while the pull from a distant planet is much too weak for you to feel.
 
-![Gravity_03](002_Gravity_03.png)
+![Gravity is everywhere](002_Gravity_03.png)
 
 ## Gravity and Everyday Life
 

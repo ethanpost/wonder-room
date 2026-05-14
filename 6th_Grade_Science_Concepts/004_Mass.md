@@ -18,7 +18,7 @@ An object with more matter has more mass. A bowling ball has more mass than a te
 
 Mass tells us how much "stuff" is in something. That simple phrase is useful, but a good science student should go one step deeper: mass also tells us how strongly an object resists changes in motion.
 
-![Mass_01](004_Mass_01.png)
+![Mass](004_Mass_01.png)
 
 
 ## Mass Is Not the Same as Size
@@ -113,7 +113,7 @@ Chemical changes follow the same basic rule. If vinegar and baking soda react in
 
 This idea is important because it teaches us to look carefully. Sometimes matter seems to disappear, but it may have become a gas, dissolved into a liquid, or moved somewhere else.
 
-![Mass_02](004_Mass_02.png)
+![You can't destroy matter](004_Mass_02.png)
 
 ## Mass in Everyday Life
 

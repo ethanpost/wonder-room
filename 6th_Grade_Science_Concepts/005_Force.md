@@ -40,7 +40,7 @@ Electric forces may act at a distance too. A rubbed balloon can attract small bi
 
 Non-contact forces may seem mysterious at first because nothing appears to be pushing or pulling. Scientists describe these forces using fields, such as gravitational fields, magnetic fields, and electric fields. A field is a region where a force can act.
 
-![Force_03](005_Force_03.png)
+![Two kinds of forces](005_Force_03.png)
 
 ## Measuring Force
 
@@ -62,7 +62,7 @@ Scientists often draw forces with arrows. The arrow points in the direction of t
 
 This is useful because many objects have more than one force acting on them at the same time. A book resting on a table has gravity pulling it downward and the table pushing it upward. A flying airplane has gravity pulling down, lift pushing up, thrust pushing forward, and air resistance pulling backward.
 
-![Force_02](005_Force_02.png)
+![Drawing force vectors](005_Force_02.png)
 
 ## Balanced Forces
 

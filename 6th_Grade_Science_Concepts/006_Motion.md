@@ -72,7 +72,7 @@ A bicycle accelerates when the rider pedals harder and speeds up. It also accele
 
 Acceleration may feel exciting or uncomfortable because your body notices changes in motion. When a car starts quickly, you feel pushed back into the seat. When it stops suddenly, you lurch forward. When it turns sharply, you feel pulled sideways. These feelings are clues that velocity is changing.
 
-![Motion_01](006_Motion_01.png)
+![Newton's Laws](006_Motion_01.png)
 
 ## Forces Cause Changes in Motion
 

@@ -42,3 +42,13 @@
 
 5. **Gravity Scavenger Hunt**  
    Ask students to list or sketch examples of gravity at work around the classroom, schoolyard, or home. Examples might include books resting on desks, water flowing downhill, balls falling after being thrown, or bags hanging from hooks.
+
+## Other Resources
+
+### Gravity Demonstration Video
+
+[Part 2](https://www.youtube.com/watch?v=MkbUzfTq3w4)
+[Part 3](https://www.youtube.com/watch?v=wnOPS-Mokvc)
+[Part 4](https://www.youtube.com/watch?v=uBRBSJzFmEs)
+[Part 5](https://www.youtube.com/watch?v=1nYM392cuGA)
+

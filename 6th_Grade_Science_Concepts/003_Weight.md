@@ -17,7 +17,7 @@ Weight always depends on two things:
 
 If either one changes, the weight changes.
 
-![Weight_01](003_Weight_01.png)
+![Weight depends on mass and gravity](003_Weight_01.png)
 
 ## Mass and Weight Are Not the Same
 
@@ -37,7 +37,7 @@ You feel this pull all day. It is why your feet press against the floor, why you
 
 The ground also pushes upward on you. When you stand still, Earth's gravity pulls you down, and the floor pushes up with an equal force. That is why you do not fall through the floor. A scale measures how hard you press down on it, which tells us how strongly gravity is pulling on you.
 
-![Weight_02](003_Weight_02.png)
+![Planetary weight scale](003_Weight_02.png)
 
 ## Weight as a Force
 
@@ -73,7 +73,7 @@ Imagine an elevator cable suddenly broke. During the fall, a person inside would
 
 Orbit is similar, except the spacecraft is moving forward so fast that as it falls toward Earth, Earth's surface curves away beneath it. The astronauts are not beyond gravity. They are in continuous free fall.
 
-![Weight_03](003_Weight_03.png)
+![Weightlessness does not mean no gravity](003_Weight_03.png)
 
 ## Apparent Weight
 

@@ -51,7 +51,7 @@ In everyday life, people often use miles per hour or kilometers per hour for veh
 
 The words "per second" or "per hour" are important. They tell the time part of the comparison.
 
-![Speed_01](007_Speed_01.png)
+![Motion](007_Speed_01.png)
 
 ## Calculating Speed
 

@@ -113,6 +113,8 @@ Chemical changes follow the same basic rule. If vinegar and baking soda react in
 
 This idea is important because it teaches us to look carefully. Sometimes matter seems to disappear, but it may have become a gas, dissolved into a liquid, or moved somewhere else.
 
+![Mass_02](004_Mass_02.png)
+
 ## Mass in Everyday Life
 
 Mass appears in ordinary life more often than you may notice.

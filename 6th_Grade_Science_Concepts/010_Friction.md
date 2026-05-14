@@ -68,7 +68,7 @@ Water resistance is fluid friction from water. A swimmer feels water pushing aga
 
 Fluid friction depends on the object's shape, speed, and the fluid itself. A streamlined shape moves more easily through air or water. This is why airplanes, racing bicycles, fish, and many boats have smooth shapes that help reduce resistance.
 
-![Fluid_Friction_01](Fluid_Friction_01.png)
+![Friction_01](Friction_01.png)
 
 ## Friction Can Help
 
